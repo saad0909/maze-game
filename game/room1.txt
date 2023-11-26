@@ -1,0 +1,11 @@
+9, 6
+0, 2
+X X 0 0 0 0
+X X D X 0 X
+X X 0 X 0 X
+X X X X 0 X
+0 0 0 0 0 0
+0 X X X X 0
+0 X X X X P
+0 0 X X X 0
+X 0 0 G X 0
